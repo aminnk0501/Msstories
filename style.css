@@ -74,7 +74,7 @@ font-weight: 700;
   text-shadow: 1px 1px 2px black, 0 0 25px rgb(234, 234, 239), 0 0 5px rgb(230, 230, 239);
 }
 #hero{
-background:url("img/mid.jpg");
+background:url("/img/mid.jpg");
 background-attachment: fixed;
 background-size: cover;
 height:100vh;
